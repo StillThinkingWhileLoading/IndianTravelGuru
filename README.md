@@ -1,4 +1,5 @@
 # IndianTravelGuru
+<img width="2384" height="1668" alt="image" src="https://github.com/user-attachments/assets/d1263872-8533-4055-954f-5a0757339da0" />
 
 Overview
 
